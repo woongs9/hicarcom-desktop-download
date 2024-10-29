@@ -1,5 +1,5 @@
 {
-	"version": "2.0.8",
+	"version": "2.0.9",
 	"files": [
 		"desktop_multi_window_plugin.dll",
 		"desktop_webview_window_plugin.dll",
