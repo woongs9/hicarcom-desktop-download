@@ -1,5 +1,5 @@
 {
-	"version": "2.1.8",
+	"version": "2.1.9",
 	"files": [
 		"Webview2Loader.dll",
 		"desktop_multi_window_plugin.dll",
@@ -22,6 +22,7 @@
 		"version.txt",
 		"webview_windows_plugin.dll",
 		"window_manager_plugin.dll",
+		"windows_notification_plugin.dll",
 		"data/app.so",
 		"data/icudtl.dat",
 		"data/flutter_assets/AssetManifest.bin",
