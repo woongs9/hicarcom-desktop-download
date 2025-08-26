@@ -27,7 +27,7 @@
     "data/icudtl.dat",
     "data/flutter_assets/AssetManifest.bin",
     "data/flutter_assets/AssetManifest.json",
-    "data/flutter_assets/NativeAssetManifest.json",
+    "data/flutter_assets/NativeAssetsManifest.json",
     "data/flutter_assets/FontManifest.json",
     "data/flutter_assets/NOTICES.Z",
     "data/flutter_assets/assets/config/.env",
