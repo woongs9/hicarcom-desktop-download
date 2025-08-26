@@ -1,5 +1,5 @@
 {
-  "version": "2.2.7",
+  "version": "2.2.8",
   "files": [
     "Webview2Loader.dll",
     "desktop_multi_window_plugin.dll",
@@ -27,6 +27,7 @@
     "data/icudtl.dat",
     "data/flutter_assets/AssetManifest.bin",
     "data/flutter_assets/AssetManifest.json",
+    "data/flutter_assets/NativeAssetManifest.json",
     "data/flutter_assets/FontManifest.json",
     "data/flutter_assets/NOTICES.Z",
     "data/flutter_assets/assets/config/.env",
