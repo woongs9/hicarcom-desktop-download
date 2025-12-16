@@ -1,5 +1,5 @@
 {
-  "version": "2.3.5",
+  "version": "2.3.6",
   "files": [
     "Webview2Loader.dll",
     "desktop_multi_window_plugin.dll",
@@ -62,6 +62,7 @@
     "data/flutter_assets/assets/images/Today.png",
     "data/flutter_assets/assets/images/unknown.png",
     "data/flutter_assets/assets/images/User.png",
+    "data/flutter_assets/assets/images/logi_icon.png",
     "data/flutter_assets/fonts/MaterialIcons-Regular.otf",
     "data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf",
     "data/flutter_assets/packages/fluent_ui/assets/AcrylicNoise.png",
